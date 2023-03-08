@@ -20,7 +20,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 OOP School Library <a name="about-project"></a>
 
 I made OOP School Library in this project.
 
