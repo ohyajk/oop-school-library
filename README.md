@@ -31,7 +31,8 @@ I made OOP School Library in this project.
 > This project use Ruby language.
 
 ### Key Features <a name="key-features"></a>
-- **Decodes Morse Code**
+- **School library**
+- **Object Oriented**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
