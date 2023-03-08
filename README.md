@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
@@ -33,12 +32,6 @@ I made OOP School Library in this project.
 
 ### Key Features <a name="key-features"></a>
 - **Decodes Morse Code**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](#)- not working
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
