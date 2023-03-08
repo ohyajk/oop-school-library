@@ -14,8 +14,8 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
 - [🔮 Future Features](#featurefeature)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -64,6 +64,11 @@ Clone this [repository](https://github.com/ohyajk/oop-school-library.git) to you
 
 - GitHub: [@ohyajk](https://github.com/ohyajk)
 - LinkedIn: [@ohyajk](https://www.linkedin.com/in/ohyajk/)
+## 🔮 Future Feature <a name="futurefeature"></a>
+
+- Add a Association.
+- Setup basic Ui.
+- Add more classes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,11 +78,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ohyajk/oop-school-library/issues).
 
-## 🔮 Future Feature <a name="futurefeature"></a>
-
-- Add a Association.
-- Setup basic Ui.
-- Add more classes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
