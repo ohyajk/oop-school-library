@@ -54,11 +54,7 @@ class App
     print 'Has parent permission? [Y/N]: '
     permission = gets.chomp.downcase
 
-    if permission == 'y'
-        parent_permission = true
-    else
-        parent_permission = false
-    end
+    parent_permission = permission == 'y'
 
     student = Student.new('Grade 12', age, name, parent_permission: parent_permission)
     @people << student
