@@ -1,8 +1,8 @@
 require './person'
 
-class Student < Person
+class Teacher < Person
   def initialize(specilization, age, name = 'Unknown', parent_permission: true)
-    super(age, name, parent_permission)
+    super(age, name, parent_permission: parent_permission)
     @specilization = specilization
   end
 
