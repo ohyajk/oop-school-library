@@ -10,16 +10,16 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+- [🔮 Future Features](#featurefeature)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 OOP School Library <a name="about-project"></a>
 
 I made OOP School Library in this project.
 
@@ -31,15 +31,8 @@ I made OOP School Library in this project.
 > This project use Ruby language.
 
 ### Key Features <a name="key-features"></a>
-- **Decodes Morse Code**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](#)- not working
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- **School library**
+- **Object Oriented**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,6 +56,11 @@ Clone this [repository](https://github.com/ohyajk/oop-school-library.git) to you
 
 - GitHub: [@ohyajk](https://github.com/ohyajk)
 - LinkedIn: [@ohyajk](https://www.linkedin.com/in/ohyajk/)
+## 🔮 Future Feature <a name="futurefeature"></a>
+
+- Add a Association.
+- Setup basic Ui.
+- Add more classes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,6 +69,7 @@ Clone this [repository](https://github.com/ohyajk/oop-school-library.git) to you
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ohyajk/oop-school-library/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,5 +83,11 @@ If you like this project, Give a ⭐️.
 
 - Project from [Microverse](https://www.microverse.org/?grsf=i6yi2m) RUBY, DATABASES module
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+-This project is  [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
