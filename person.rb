@@ -12,7 +12,7 @@ class Person
   end
 
   def correct_name
-    @decoration.correct_name
+    @name
   end
 
   def can_use_services?
