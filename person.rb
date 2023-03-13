@@ -9,6 +9,7 @@ class Person
     @name = name
     @age = age
     @parent_permission = parent_permission
+    @rentals = []
   end
 
   def correct_name
@@ -23,5 +24,9 @@ class Person
 
   def of_age?
     @age < 18
+  end
+
+  def add_rental(book, date)
+    Rental.new(date, book, self)
   end
 end
